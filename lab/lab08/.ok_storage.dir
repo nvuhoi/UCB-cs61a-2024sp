@@ -1,0 +1,3 @@
+'prune_small-correct', (0, 70)
+'cumulative_mul-correct', (512, 70)
+'delete-correct', (1024, 70)
